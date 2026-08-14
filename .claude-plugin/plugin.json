@@ -1,0 +1,23 @@
+{
+  "name": "site-studio",
+  "displayName": "Site Studio",
+  "version": "1.0.0",
+  "description": "Профессиональный сборник скиллов для сборки премиальных сайтов: дирижёр процесса, GSAP-движение, ворота качества (WCAG 2.2 + Core Web Vitals) и SEO. Ведёт от концепта до деплоя с правилами против «дешёвого» AI-сайта.",
+  "author": {
+    "name": "Sergey Yelpin",
+    "email": "yelpinweb@gmail.com",
+    "url": "https://yelpin.github.io"
+  },
+  "homepage": "https://yelpin.github.io",
+  "license": "MIT",
+  "keywords": [
+    "web-design",
+    "landing-page",
+    "gsap",
+    "accessibility",
+    "web-vitals",
+    "seo",
+    "design-system",
+    "ui-ux"
+  ]
+}

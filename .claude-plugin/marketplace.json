@@ -1,0 +1,17 @@
+{
+  "name": "yelpin-site-studio",
+  "owner": {
+    "name": "Sergey Yelpin",
+    "email": "yelpinweb@gmail.com",
+    "url": "https://yelpin.github.io"
+  },
+  "description": "Локальный маркетплейс Сергея Ельпина. Содержит плагин site-studio.",
+  "plugins": [
+    {
+      "name": "site-studio",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Дирижёр + движение + ворота качества + SEO для премиальных сайтов. 4 связанных скилла и референс-библиотека."
+    }
+  ]
+}

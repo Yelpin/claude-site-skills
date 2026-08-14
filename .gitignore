@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives (skills ставятся из папок, не из zip)
+*.zip
+
+# Editor
+.vscode/
+.idea/
+*~
