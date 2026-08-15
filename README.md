@@ -1,12 +1,12 @@
 # Site Studio
 
+**🇷🇺 Русский** · [🇬🇧 English](README.en.md)
+
 **Skills для Claude Code, которые собирают сайты уровня студии, а не AI-шаблона.**
-*A Claude Code skill collection for building studio-grade websites — not generic AI slop.*
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Skills](https://img.shields.io/badge/skills-4-blue)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-plugin-8A2BE2)
-![Language](https://img.shields.io/badge/lang-RU-lightgrey)
 
 Один плагин, четыре связанных скилла и референс-библиотека. Каждый скилл срабатывает сам, но работают они как один конвейер: дирижёр ведёт процесс и в нужный момент вызывает движение, ворота качества и SEO. В основе — правила против «дешёвого» результата из практики, а не абстрактные гайдлайны.
 
