@@ -49,7 +49,7 @@ The single source of truth is `DESIGN.md`, which `site-director` writes to the p
 ### Claude Code (plugin)
 
 ```
-/plugin marketplace add Yelpin/claude-site-skills
+/plugin marketplace add Yelpin/ux-ui-design-website
 ```
 ```
 /plugin install site-studio@yelpin-site-studio
@@ -68,7 +68,7 @@ Copy the folders you want from `skills/` into `~/.claude/skills/`. Each skill is
 ## Structure
 
 ```
-claude-site-skills/
+ux-ui-design-website/
 ├── .claude-plugin/
 │   ├── plugin.json          # plugin manifest
 │   └── marketplace.json     # marketplace (for /plugin marketplace add)

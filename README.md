@@ -47,7 +47,7 @@
 ### Claude Code (плагин)
 
 ```
-/plugin marketplace add Yelpin/claude-site-skills
+/plugin marketplace add Yelpin/ux-ui-design-website
 ```
 ```
 /plugin install site-studio@yelpin-site-studio
@@ -66,7 +66,7 @@ Settings → Capabilities → Skills → **Add skill**. Загрузи кажд�
 ## Структура
 
 ```
-claude-site-skills/
+ux-ui-design-website/
 ├── .claude-plugin/
 │   ├── plugin.json          # манифест плагина
 │   └── marketplace.json     # маркетплейс (для /plugin marketplace add)
